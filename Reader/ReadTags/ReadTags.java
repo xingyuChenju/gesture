@@ -12,7 +12,7 @@ public class ReadTags {
 //    public static String path = "D:\\陈星宇\\GitHub\\Arrays\\随机共振弱信号检测\\Data\\0625\\";
         public static String path = "Data\\";
 //    public static String path = ".\\twins\\Data0528\\";
-    public static String TEXTNAME = "demo";
+    public static String TEXTNAME = "demo7";
     public static String hostname = "192.168.1.127";
 
     public static void main(String[] args) {
@@ -21,8 +21,8 @@ public class ReadTags {
             if (!file.exists() && !file.isDirectory()) {
                 file.mkdirs();
             }
-            Thread.sleep(0);
-//            Toolkit.getDefaultToolkit().beep();
+            Thread.sleep(10000);
+            Toolkit.getDefaultToolkit().beep();
             ImpinjReader reader = new ImpinjReader();
             reader.connect(hostname);
             reader.applySettings(Settings.load("ReadTags/"+hostname +".xml"));
@@ -36,7 +36,7 @@ public class ReadTags {
 //                Thread.sleep(20000);
 //                Toolkit.getDefaultToolkit().beep();
 //            }
-            Thread.sleep(5000);
+            Thread.sleep(10000);
             reader.stop();
             Toolkit.getDefaultToolkit().beep();
             reader.disconnect();
