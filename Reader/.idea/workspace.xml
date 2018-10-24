@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e9960678-59ab-466b-bbf7-9358e06bfce1" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Reader$ReaderSettings.coverage" NAME="ReaderSettings Coverage Results" MODIFIED="1522840186319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="ReaderSettings.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ReadTags/ReaderSettings.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="61" column="33" selection-start-line="61" selection-start-column="33" selection-end-line="61" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReadTags.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ReadTags/ReadTags.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TagReportListenerImplementation.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ReadTags/TagReportListenerImplementation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="490">
+              <caret line="105" column="33" lean-forward="true" selection-start-line="105" selection-start-column="33" selection-end-line="105" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ReadTags/Work.java" />
+        <option value="$PROJECT_DIR$/Vibration/Data0510/groundtruth" />
+        <option value="$PROJECT_DIR$/Vibration/Data0515/groundtruth.txt" />
+        <option value="$PROJECT_DIR$/Vibration/Data0528/groundtruth.txt" />
+        <option value="$PROJECT_DIR$/ReadTags/ReaderSettings.java" />
+        <option value="$PROJECT_DIR$/ReadTags/TagReportListenerImplementation.java" />
+        <option value="$PROJECT_DIR$/ReadTags/ReadTags.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
+    <option name="width" value="1944" />
+    <option name="height" value="1044" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Reader" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Reader" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Reader" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Reader" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Reader" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Reader" type="462c0819:PsiDirectoryNode" />
+              <item name="ReadTags" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Tagup/java code/Reader" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ReadTags">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HEIGHT" value="0" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="WIDTH" value="0" />
+    </configuration>
+    <configuration name="ReadTags" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReadTags" />
+      <module name="Reader" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="ReaderSettings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReaderSettings" />
+      <module name="Reader" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.ReadTags" />
+      <item itemvalue="Application.ReaderSettings" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ReadTags" />
+        <item itemvalue="Application.ReaderSettings" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9960678-59ab-466b-bbf7-9358e06bfce1" name="Default" comment="" />
+      <created>1522839659082</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1522839659082</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.28865978" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14832163" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ReadTags/ReadTags.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="30" column="30" lean-forward="true" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/TagUp180115/reader2.txt" />
+    <entry file="file://$PROJECT_DIR$/ReadTags/ReadTags.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="20" column="51" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/paper20/tag1.txt" />
+    <entry file="file://$PROJECT_DIR$/ReadTags/TagReportListenerImplementation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3465">
+          <caret line="117" column="39" selection-start-line="117" selection-start-column="39" selection-end-line="117" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReadTags/Work.java" />
+    <entry file="file://$PROJECT_DIR$/ReadTags/ReaderSettings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="40" column="55" selection-start-line="40" selection-start-column="55" selection-end-line="40" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/TagUp180115/reader2.txt" />
+    <entry file="file://$PROJECT_DIR$/Data/paper20/tag1.txt" />
+    <entry file="file://$PROJECT_DIR$/Data1101/Data/1710 1900.txt" />
+    <entry file="file://$PROJECT_DIR$/Data/TagUp180404/data1.txt" />
+    <entry file="file://$PROJECT_DIR$/Data/TagUp180405_china/data2.txt" />
+    <entry file="file://$PROJECT_DIR$/Data/TagUp180415/data1.txt" />
+    <entry file="file://$PROJECT_DIR$/Data/TagUp180415/data2.txt" />
+    <entry file="file://$USER_HOME$/Desktop/thingmagic/mercuryapi-1.29.4.34/java/samples_nb/src/samples/SavedConfig.java" />
+    <entry file="file://$USER_HOME$/Desktop/thingmagic/mercuryapi-1.29.4.34/java/samples_nb/src/samples/demo.java" />
+    <entry file="file://$USER_HOME$/Desktop/thingmagic/mercuryapi-1.29.4.34/java/samples_nb/src/samples/AntennaList.java" />
+    <entry file="file://$PROJECT_DIR$/Data/TagUp180415/data3.txt" />
+    <entry file="file://$PROJECT_DIR$/Vibration/Data0510/none.txt" />
+    <entry file="file://$PROJECT_DIR$/Vibration/Data0510/heartbeat2.txt" />
+    <entry file="file://$PROJECT_DIR$/Vibration/Data0510/heartbeat3.txt" />
+    <entry file="file://$PROJECT_DIR$/Vibration/Data0510/groundtruth" />
+    <entry file="file://$PROJECT_DIR$/Vibration/Data0510/test.txt" />
+    <entry file="file://$PROJECT_DIR$/Vibration/Data0515/heartbeat4.txt" />
+    <entry file="file://$PROJECT_DIR$/Data/TagUp180418/data1.txt" />
+    <entry file="file://$PROJECT_DIR$/Data/TagUp8Steps/data2.txt" />
+    <entry file="file://$PROJECT_DIR$/Vibration/Data0511/heartbeat1.txt" />
+    <entry file="file://$PROJECT_DIR$/Vibration/Data0515/heartbeat1.txt" />
+    <entry file="file://$PROJECT_DIR$/Vibration/Data0515/heartbeat3.txt" />
+    <entry file="file://$PROJECT_DIR$/Vibration/Data0511/test.txt" />
+    <entry file="file://$PROJECT_DIR$/Vibration/Data0515/groundtruth.txt" />
+    <entry file="file://$PROJECT_DIR$/Vibration/Data0528/heartbeat1.txt" />
+    <entry file="file://$PROJECT_DIR$/Vibration/Data0528/heartbeat2.txt" />
+    <entry file="file://$PROJECT_DIR$/Vibration/Data0528/heartbeat3.txt" />
+    <entry file="file://$PROJECT_DIR$/Vibration/Data0528/heartbeat4.txt" />
+    <entry file="file://$PROJECT_DIR$/Vibration/Data0528/heartbeat5.txt" />
+    <entry file="file://$PROJECT_DIR$/Vibration/Data0528/groundtruth.txt" />
+    <entry file="file://$PROJECT_DIR$/ReadTags/Work.java" />
+    <entry file="file://$PROJECT_DIR$/20180727data1.txt" />
+    <entry file="file://$PROJECT_DIR$/../随机共振弱信号检测/Data/0615/data2.txt" />
+    <entry file="file://$PROJECT_DIR$/20180727/data1.txt" />
+    <entry file="file://$PROJECT_DIR$/20180727/data2.txt" />
+    <entry file="file://$PROJECT_DIR$/20180727/data3.txt" />
+    <entry file="file://$PROJECT_DIR$/20180727/data30.txt" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/Thread.java" />
+    <entry file="file://$PROJECT_DIR$/20180727/data302.txt" />
+    <entry file="file://$PROJECT_DIR$/20180727/data1001.txt" />
+    <entry file="file://$PROJECT_DIR$/Data/data20181024.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-714">
+          <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReadTags/ReaderSettings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="61" column="33" selection-start-line="61" selection-start-column="33" selection-end-line="61" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReadTags/TagReportListenerImplementation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="490">
+          <caret line="105" column="33" lean-forward="true" selection-start-line="105" selection-start-column="33" selection-end-line="105" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReadTags/ReadTags.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
