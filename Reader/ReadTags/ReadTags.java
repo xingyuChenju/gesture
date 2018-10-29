@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 public class ReadTags {
 //    public static String path = "D:\\陈星宇\\GitHub\\Arrays\\随机共振弱信号检测\\Data\\0625\\";
-        public static String path = "Data\\";
+    public static String path = "Data\\";
 //    public static String path = ".\\twins\\Data0528\\";
     public static String TEXTNAME = "demo7";
     public static String hostname = "192.168.1.127";
